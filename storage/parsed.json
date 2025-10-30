@@ -1,0 +1,47 @@
+{
+    "29.03.2025": {
+        "raw": "29.03.2025",
+        "century": 21,
+        "year": 2025,
+        "month": "March",
+        "day": 29,
+        "dayOfWeek": "Saturday",
+        "count": 1
+    },
+    "17.04.1985": {
+        "date": "17.04.1985",
+        "century": 20,
+        "year": 1985,
+        "month": "April",
+        "day": 17,
+        "dayOfWeek": "Wednesday",
+        "count": 2
+    },
+    "09.05.1985": {
+        "date": "09.05.1985",
+        "century": 20,
+        "year": 1985,
+        "month": "May",
+        "day": 9,
+        "dayOfWeek": "Thursday",
+        "count": 3
+    },
+    "25.02.2024": {
+        "date": "25.02.2024",
+        "century": 21,
+        "year": 2024,
+        "month": "February",
+        "day": 25,
+        "dayOfWeek": "Sunday",
+        "count": 1
+    },
+    "25.02.2008": {
+        "date": "25.02.2008",
+        "century": 21,
+        "year": 2008,
+        "month": "February",
+        "day": 25,
+        "dayOfWeek": "Monday",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+framework:
+    cache:
+        pools:
+            app.redis_cache:
+                adapter: cache.adapter.redis
+                provider: "%env(REDIS_URL)%"
